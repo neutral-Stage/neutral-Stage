@@ -18,9 +18,9 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
-- 🌱 I'm currently learning: **📚 Exploring DevOps**
+- 🌱 I'm currently learning: **📚 Exploring Devops**
 - 💬 Ask me about: **💡 Next.js, React.js, Vue.js, Sanity.io, Nuxt.js, Gatsby.js, Node.js and Problem-solving**
-- ⚡ Fun fact: **🎢 I once debugged an issue while taking a shower!**
+- ⚡ Fun fact: **🎢 I once debugged an issue while taking shower!**
 - 📂 Portfolio: **<a href="https://shuvoanirbanroy.com/" target="_blank">https://shuvoanirbanroy.com/</a>**
 
  **<h3 align="left">Skills</h3>**
@@ -31,7 +31,7 @@
 
 <p align="left">
   <img width="48%" src="https://streak-stats.demolab.com/?user=neutral-Stage&theme=midnight-purple&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=weekly&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&border_radius=14&exclude_days=Sat%2CSun" alt="GitHub streak Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=neutral-Stage&theme=midnight-purple&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=neutral-Stage&theme=midnight-purple&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&border_radius=14" alt="GitHub top-langs Card" />
 </p>
 
  **<h3 align="left">Support Me</h3>**
