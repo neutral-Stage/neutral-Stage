@@ -13,14 +13,14 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+ **<h3 align="left">🚀 Passionate full-stack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
-- 🌱 I'm currently learning: **📚 Exploring Devops**
+- 🌱 I'm currently learning: **📚 Exploring DevOps**
 - 💬 Ask me about: **💡 Next.js, React.js, Vue.js, Sanity.io, Nuxt.js, Gatsby.js, Node.js and Problem-solving**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
+- ⚡ Fun fact: **🎢 I once debugged an issue while taking a shower!**
 - 📂 Portfolio: **<a href="https://shuvoanirbanroy.com/" target="_blank">https://shuvoanirbanroy.com/</a>**
 
  **<h3 align="left">Skills</h3>**
